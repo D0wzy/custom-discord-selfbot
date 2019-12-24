@@ -1,0 +1,15 @@
+{
+    "token": "NTQwMjk0NjUxNDg0MDQ1MzE0.XdgZsA.4d9GsAXEd70ECx0Qw0XmyJCGRQw",
+	"logchannelid": "659040084770684948",
+	"chloggerwhid": "",
+	"rpcid": "637039511691591682",
+	"rpcimgname": "nz",
+	"defaultstatus": "dnd",
+	"cstatusonstart": "false",
+	"prefix": "nz!",
+	"channellogger": "enable",
+	"txtlogger": "enable",
+	"terminallogger": "enable",
+	"selfbotname": "Exemple",
+	"twitch": "discord"
+}
