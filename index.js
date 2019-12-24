@@ -21,7 +21,8 @@ bot.on("ready", () => {
   console.log("E-Mail:".underline.white + ` ${bot.user.email}`)
   console.log("----------------------------".grey)
   console.log(" ")
-  console.log("Le selfbot c'est lancé avec succés. Si une erreur ou un bug survient, merci de contacter le créateur via Discord.")
+  console.log("Le selfbot s'est lancé avec succés. Si une erreur ou un bug survient, merci de contacter le créateur via Discord.")
+  console.log("Rappel : La politique de Discord est d'interdire les self-bots n,plus ne sommes pas responsables en cas de ban de la plateforme pour cette raisonou toute autre.") 
   console.log("Bonne utilisation du selfbot" + " (Rappel: Nous sommes responsable de aucun de vos dégats sur un serveur Discord ou d'un banissement !".bold)
   bot.user.setActivity('𝙉𝙕 Selfbot', 'https://twitch.tv/discord');
   bot.user.setStatus(config.defaultstatus);
